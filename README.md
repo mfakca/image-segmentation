@@ -1,3 +1,5 @@
 # image-segmentation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+Image segmentation with PixelLib
